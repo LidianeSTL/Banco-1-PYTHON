@@ -6,9 +6,7 @@ menu = '''
 [3] Extrato
 [4] Sair
 
-
 --> '''
-
 
 num_saque = 0
 saldo = 0
