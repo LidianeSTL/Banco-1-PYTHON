@@ -17,8 +17,6 @@ limite = 500
 LIMITE_SAQUES = 3
 
 
-
-
 while True:
    opcao = input(menu)
 
